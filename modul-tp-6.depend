@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1729325646 source:c:\users\muham\onedrive\dokumen\tugas kuliah\strukdat\modul-tp-6\dll.cpp
+	"dll.h"
+
+1729325235 c:\users\muham\onedrive\dokumen\tugas kuliah\strukdat\modul-tp-6\dll.h
+	<iostream>
+
+1729326006 source:c:\users\muham\onedrive\dokumen\tugas kuliah\strukdat\modul-tp-6\main.cpp
+	"dll.h"
+	<iostream>
+	<string>
+
